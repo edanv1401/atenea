@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "http://joedoe.github.io/your-app",
+  "homepage": "http://edanv1401.github.io/atenea",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
